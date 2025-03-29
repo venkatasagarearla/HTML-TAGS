@@ -1,0 +1,33 @@
+#div1 {
+  height: 70px;
+  width: 70px;
+  color: palegreen;
+  background-color: red;
+}
+#div2 {
+ background-image: url("chee.jpg");
+  height: 80px;
+  width: 80px;
+  color: violet;
+  background-color: skyblue;
+  background-size: cover;
+}
+#div3 {
+  height: 90px;
+  width: 90px;
+  color: navy;
+  background-color: orangered;
+}
+.divclass1 {
+  height: 200px;
+  width: 200px;
+  color: brown;
+  background-color: black;
+}
+/* body {
+  background-color: brown;
+  background-image: url("chee.jpg");
+  background-image: url("../chee.jpg");
+  background-repeat: no-repeat;
+  margin:0 auto ;
+} */

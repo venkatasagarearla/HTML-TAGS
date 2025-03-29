@@ -1,0 +1,15 @@
+
+.pic{
+    /* height:600px;
+    width:300px; */
+     background-color: aquamarine;
+    border: 2px solid red;
+    background-image: url(lion.jpg);
+    background-size: contain;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: ;
+}
+
+
+
